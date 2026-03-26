@@ -24,7 +24,7 @@ Module Summaries
 Module 1: Digital Literacy Awareness
 Created a one-page visual infographic to help peers understand the importance of digital literacy, covering topics such as useful digital tools and safe internet practices.
 
-Deliverable:(https://picsart.com/p/f2dfcae5-3a77-4b64-9732-707c6ee5f06f)
+Deliverable: https://picsart.com/p/f2dfcae5-3a77-4b64-9732-707c6ee5f06f
 
 Module 2: Student Digital Portfolio
 Established a professional digital presence across key platforms to connect with the academic and professional community.
