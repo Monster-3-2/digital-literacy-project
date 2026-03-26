@@ -57,4 +57,4 @@ Project Report
 The full written report covering all five tasks and personal reflections can be found here:
 
 
-Report Link: https//github.com/Monster-3-2/digital-literacy-project/main/report/Project Report.docs
+Report Link: https://github.com/Monster-3-2/digital-literacy-project/main/report/Project Report.docs
