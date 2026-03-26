@@ -1,0 +1,11 @@
+Safe on the internet- Preventative measures checklistEnable multi-factor authentication (MFA): To add an additional layer of protection on your university e-mail, GitHub, social media platforms activate two-factor or multi-factor authentication for each.
+Verify UPI 'Request money' scams: To recall, UPI PIN should only be entered when sending money and not when receiving funds; anyone requesting your PIN to "credit" any prize or refund amount, be aware that this is a fraud.
+Protect your SIM Card: Set a SIM card lock (PIN), this prevents any hacker to use your phone number for OTP-based identity fraud in case your phone is lost or stolen.
+Audit the app permissions: Go through your mobile apps and examine the permission asked by each; do not permit applications unnecessary access to your camera, microphone or contacts.
+Set different passwords for different platforms: Never use the same password to access your college portal and the internet banking platform; opt for a credible password manager that creates difficult, unique passwords.
+Check your UPI handle names before transferring: Ensure that the UPI handle that the payment will be transferred to, matches the desired recipient in the application, before proceeding with the transfer and verify the QR codes being used, particularly at public places.
+Do not use public Wi-Fi for banking or college portal transactions: It is unsafe to use public Wi-Fi for any sensitive tasks like banking or entering the university portal; a VPN service or mobile data would be safe to use in these cases.
+Think before you click: Look closely at the sender's e-mail address and URL to identify any misspellings and phishing attempts.
+How to report cybercrime in IndiaIf you, a peer, or anyone you know is the victim of a cyber attack, immediately utilize these resources:
+National Cyber Crime Reporting Portal: [suspicious link removed]
+National Helpline Number: 1930 (Operates 24x7)
